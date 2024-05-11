@@ -1,0 +1,5 @@
+<library path="nav2_a_star_planner">
+    <class name="nav2_a_star_planner/AStarPlanner" type="nav2_a_star_planner::AStarPlanner" base_class_type="nav2_core::GlobalPlanner">
+        <description>An implementation of the A* Algorithm</description>
+    </class>
+</library>
