@@ -1,0 +1,4 @@
+nav2_bt_navigator/behavior_trees/navigate_to_pose_w_replanning_and_recovery.xml
+在该目录下修改
+<BackUp backup_dist="0.30" backup_speed="0.2"/>
+为了在脱困时做后退动作，一般情况下是进行注释了的，如有需要则加上
